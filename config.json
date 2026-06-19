@@ -78,6 +78,25 @@
           "type": "text"
         }
       ]
+    },
+    {
+      "id": "file-io-automation",
+      "title": "File I/O and Automation",
+      "description": "Practice Python file input/output and automation by processing text data and writing a summary report.",
+      "path": "assignments/file-io-automation",
+      "dueDate": "2026-07-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "sample-data.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
